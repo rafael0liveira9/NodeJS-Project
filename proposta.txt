@@ -1,0 +1,13 @@
+O Objetivo deste projeto é praticar conhecimentos adquiridos na tecnologia "Node.JS".
+
+* Data: 20/10/2022
+
+* Referência: https://www.youtube.com/watch?v=IOfDoyP1Aq0&t=3304s
+
+* Projeto: Criar o BackEnd de uma API utilizando Node.JS, integrando com o Banco de Dados MongoDB.
+
+* Ferramentas/Frameworks/Plugins utilizados: VSCode, NPM, Docker, MongoDB, Post.
+
+
+
+Atualizações:
