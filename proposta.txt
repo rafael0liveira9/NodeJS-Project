@@ -2,7 +2,9 @@ O Objetivo deste projeto é praticar conhecimentos adquiridos na tecnologia "Nod
 
 * Data: 20/10/2022
 
-* Referência: https://www.youtube.com/watch?v=IOfDoyP1Aq0&t=3304s
+* Referência GitHub: https://www.youtube.com/watch?v=h1-XZ9Kh1H4
+* Referência Docker: https://www.youtube.com/watch?v=np_vyd7QlXk&t=1812s
+* Referência NodeJS: https://www.youtube.com/watch?v=IOfDoyP1Aq0&t=3304s
 
 * Projeto: Criar o BackEnd de uma API utilizando Node.JS, integrando com o Banco de Dados MongoDB.
 
